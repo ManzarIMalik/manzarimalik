@@ -6,6 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shukur-alom" alt="manzar-iqbal-malik" /></a> </p>
 
+## About me
+
+<img align="right" width="140" height="140" src="bit.ly_3GsR02k.png">
+As a Computer Vision Engineer , I work with Python, C++, OpenCV, TensorFlow to develop and deploy innovative solutions for image and video analysis, object detection, and face recognition. I have a strong computer science background, with a Bachelor of Science in Computer Science and a Master's degree in Artificial Intelligence from University of Salford, UK. I have multiple certifications from Udacity in Computer Vision and Deep Learning, and I have previous experience as a Digital Solutions Architect at Advistle and as Web Engineer at Logical Creations.
+
+I am passionate about applying data science and computer vision to solve real-world problems and create value for businesses and society. I am always eager to learn new technologies and tools, and to collaborate with other professionals and experts in the field. I am motivated by challenges and opportunities to improve my skills and knowledge, and to contribute to the advancement of the domain.
+<br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
