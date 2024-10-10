@@ -8,9 +8,10 @@
 
 ## About me
 
-As a Computer Vision Engineer , I work with Python, C++, OpenCV, TensorFlow to develop and deploy innovative solutions for image and video analysis, object detection, and face recognition. I have a strong computer science background, with a Bachelor of Science in Computer Science and a Master's degree in Artificial Intelligence from University of Salford, UK. I have multiple certifications from Udacity in Computer Vision and Deep Learning, and I have previous experience as a Digital Solutions Architect at Advistle and as Web Engineer at Logical Creations.
+I am a Postdoctoral Researcher in Artificial Intelligence, focusing on Large Language Models and computer vision. I specialize in Python, C++, OpenCV, and TensorFlow, developing innovative solutions in image/video analysis, object detection, and face recognition.
 
-I am passionate about applying data science and computer vision to solve real-world problems and create value for businesses and society. I am always eager to learn new technologies and tools, and to collaborate with other professionals and experts in the field. I am motivated by challenges and opportunities to improve my skills and knowledge, and to contribute to the advancement of the domain.
+With a strong background in computer science and a Master’s degree in AI, I’ve earned certifications in Computer Vision and Deep Learning from Udacity. Previously, I worked as a Digital Solutions Architect at Advistle and a Web Engineer at Logical Creations. Passionate about applying AI to real-world challenges, I am always eager to learn, collaborate, and push the boundaries of the field.
+
 <br />
 
 
