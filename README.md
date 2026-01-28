@@ -8,7 +8,7 @@
 
 ## About me
 
-I am a Postdoctoral Researcher in Artificial Intelligence, focusing on Large Language Models and computer vision. I specialize in Python, C++, OpenCV, and TensorFlow, developing innovative solutions in image/video analysis, object detection, and face recognition.
+I am an AI Research Engineer, focusing on Large Language Models and computer vision. I specialize in Python, C++, OpenCV, and TensorFlow, developing innovative solutions in image/video analysis, object detection, and face recognition.
 
 With a strong background in computer science and a Master’s degree in AI, I’ve earned certifications in Computer Vision and Deep Learning from Udacity. Previously, I worked as a Digital Solutions Architect at Advistle and a Web Engineer at Logical Creations. Passionate about applying AI to real-world challenges, I am always eager to learn, collaborate, and push the boundaries of the field.
 
